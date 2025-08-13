@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX idx_unico_titulo_mensaje ON Topico (titulo, mensaje(255));
